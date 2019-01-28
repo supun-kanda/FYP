@@ -11,6 +11,7 @@ https://github.com/JaywongWang/DenseVideoCaptioning.git
 You can find the missing files there.
 
 #BEFORE YOU DO ANYTHING
+
 In the demo.sh the 2 different conda environments got activated which are 'c3d' and 'dense'. You can install them using the saved files which are located. This will install all the dependancies automatically so that you don't have to install them one by one.
 
 FYP/c3d-keras/c3d.yml
